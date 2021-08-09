@@ -10,3 +10,5 @@ Participantes:
  * [Edson Isaac José Francisco](https://github.com/Edssaac) - 0030482021020
  * [Lucas Henrique Cardoso da Aparecida](https://github.com/Edssaac) - 0030482021009
  * [Nicole Baraldi dos Santos](https://github.com/Edssaac) - 0030482021025
+
+Professor: [Glauco Todesco](https://github.com/glaucotodesco)
