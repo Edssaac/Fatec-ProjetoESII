@@ -1,7 +1,9 @@
 <p align="center">
-    <h1 align="center">Projeto de Engenharia de Software II</h1>
-    <h3 align="center">A Definir...</h3>
+    <h1 align="center">🗞 Classificados Fatec 🗞</h1>
+    <h3 align="center">Projeto de Engenharia de Software II</h3>
 </p>
+
+<br>
 
 🛸 PARTICIPANTES:
 
@@ -17,4 +19,10 @@ Professor: [Glauco Todesco](https://github.com/glaucotodesco)
 
 🖥 TECNOLOGIAS:
  * SQL Server
- * C#
+ * Asp.Net
+
+<br>
+
+⛳️ OBJETIVOS: <br>
+
+Classificados são uma forma de publicidade comum em jornais, revistas e Internet. Essa versão, exclusiva da Fatec, tem como objetivo permitir que os alunos possam vender seus livros e materiais de etudo que já não usam mais, e também a possibilidade de trabalharem como monitores das materias que possuem experiência, podendo cobrar uma taxa ou não.
