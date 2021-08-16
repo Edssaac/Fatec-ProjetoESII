@@ -3,7 +3,7 @@
     <h3 align="center">A Definir...</h3>
 </p>
 
-Participantes:
+🛸 PARTICIPANTES:
 
  * [Aline Karen Ines Herculano](https://github.com/Edssaac) - 0030482021005
  * [Caíque Oliveira Silva](https://github.com/Edssaac) - 0030482021015
@@ -12,3 +12,9 @@ Participantes:
  * [Nicole Baraldi dos Santos](https://github.com/Edssaac) - 0030482021025
 
 Professor: [Glauco Todesco](https://github.com/glaucotodesco)
+
+<br>
+
+🖥 TECNOLOGIAS:
+ * SQL Server
+ * C#
