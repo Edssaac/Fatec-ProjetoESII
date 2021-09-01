@@ -18,8 +18,14 @@ Professor: [Glauco Todesco](https://github.com/glaucotodesco)
 <br>
 
 🖥 TECNOLOGIAS:
- * SQL Server
- * Asp.Net
+
+FrontEnd:
+ * HTML/CSS
+ * JavaScript
+
+BackEnd:
+ * MySQL
+ * JavaScript
 
 <br>
 
