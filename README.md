@@ -25,7 +25,7 @@ FrontEnd:
 
 BackEnd:
  * MySQL
- * JavaScript
+ * PHP
 
 <br>
 
