@@ -22,10 +22,12 @@ Professor: [Glauco Todesco](https://github.com/glaucotodesco)
 FrontEnd:
  * HTML/CSS
  * JavaScript
+ * BootStrap ???
 
 BackEnd:
  * MySQL
  * PHP
+ * Laravel ???
 
 <br>
 
