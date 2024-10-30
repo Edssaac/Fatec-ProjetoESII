@@ -43,4 +43,4 @@ Classificados são uma forma de publicidade comum em jornais, revistas e Interne
 permitir que os alunos possam vender seus livros e materiais de estudo que já não usam mais, e também a possibilidade de trabalharem 
 como monitores das materias que possuem experiência, podendo cobrar uma taxa ou não.
 
-[Documentação](https://github.com/Edssaac/ProjetoESII/blob/main/Tarefa%2003%20-%20Tema%20do%20Projeto/Classificados.md)
+[![Documentação](https://img.shields.io/badge/Documentação-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Edssaac/ProjetoESII/blob/main/Tarefa%2003%20-%20Tema%20do%20Projeto/Classificados.md)
